@@ -7,5 +7,3 @@ Inspired by "LabsCore", our program provides hundreds of useful features for you
 >[Our Discord](https://discord.gg/rzEfDvDNdJ)
 >
 >[Our Website](https://github.com/SoulDevOfficial/LabsUtility)
->
->[Credits](View/Credits.md)
