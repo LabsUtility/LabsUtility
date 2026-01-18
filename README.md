@@ -47,10 +47,10 @@ At this time unless given explicit permission from the developer (soulwatcher._)
 - /url-encode (Encodes a URL)
 - /user-avatar (Gets user icon)
 - /user-banner (Gets user banner)
-- userinfo
-- /uuid
-- /weather
-- /wrap
+- userinfo (Gets obtainable user info)
+- /uuid (Get UUID)
+- /weather (Get weather)
+- /wrap (Wrap string to desired length)
 ```
 # Official 
 Links
