@@ -3,13 +3,9 @@
 
 LabsUtility is a user companion for taking care of annying tasks and jobs. With many commands to choose from, you can now complete actions, search the web, and more - all without leaving one app or site!
 
-# How To Copy
+# How To Rehost
 At this time unless given explicit permission from the developer (soulwatcher._), copying code, directories, files, or any other content in this repository for commercial, personal, private, or public use is prohibited. Full release and legal terms for copying may release soon. Violating these current terms will result in violating international copyright laws which LabsUtility and related services are under. If any user, company, or other entity is found violating these terms, restrictions and legal actions can and will be taken.
-# Current Commands
-> These list may be outdated at any time. I update it when I can.
-```
-Updating
-```
+
 # Official 
 Links
 >[Main Developer](https://github.com/SoulDevOfficial)
