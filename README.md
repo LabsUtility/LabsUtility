@@ -1,3 +1,7 @@
+> [!WARNING]
+> This content is heavily outdated. Planning to update soon.
+
+
 # LabsUtility
 <ins>**Note:** Keep in mind that this directory may not contain the latest versions of some files. If the version you want is not here, please contact *Soul</ins> (soulwatcher._)* <ins>for the version you want!</ins>
 
